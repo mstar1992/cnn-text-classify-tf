@@ -1,0 +1,6 @@
+model_checkpoint_path: "/dockerData/rachel/cnn-text-classify-tf/runs/1481471864/checkpoints/model-7800"
+all_model_checkpoint_paths: "/dockerData/rachel/cnn-text-classify-tf/runs/1481471864/checkpoints/model-7400"
+all_model_checkpoint_paths: "/dockerData/rachel/cnn-text-classify-tf/runs/1481471864/checkpoints/model-7500"
+all_model_checkpoint_paths: "/dockerData/rachel/cnn-text-classify-tf/runs/1481471864/checkpoints/model-7600"
+all_model_checkpoint_paths: "/dockerData/rachel/cnn-text-classify-tf/runs/1481471864/checkpoints/model-7700"
+all_model_checkpoint_paths: "/dockerData/rachel/cnn-text-classify-tf/runs/1481471864/checkpoints/model-7800"
